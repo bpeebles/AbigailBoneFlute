@@ -1,0 +1,11 @@
+{
+    "Name": "BoneFlute",
+    "Author": "Byron Peebles",
+    "Version": "1.0.0",
+    "Description": "Make Abigail like bone flutes.",
+    "UniqueID": "bpeebles.boneflute",
+    "UpdateKeys": [], // when you release the mod, see https://stardewvalleywiki.com/Modding:Modder_Guide/APIs/Update_checks
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

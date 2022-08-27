@@ -1,0 +1,12 @@
+{
+    "Format": "1.28.0",
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Abigail": " I seriously love this! You're the best, @!/66 128 220 226 276 611/Hey, how'd you know I was hungry? This looks delicious!/119/What am I supposed to do with this?/-5 -75 -79 16 245 246/What were you thinking? This is awful!/330/You brought me a present? Thanks.// "
+            },
+        },
+    ]
+}
